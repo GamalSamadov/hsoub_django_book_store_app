@@ -1,0 +1,1 @@
+# hsoub_django_book_store_app
